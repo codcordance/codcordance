@@ -37,7 +37,6 @@ You can learn more about me on my website. Also feel free to reach out through m
 <a href='#' target="_blank"><img alt='Dart' src='https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white&labelColor=black&color=white'/></a>
 <a href='#' target="_blank"><img alt='Pycharm' src='https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black&color=white'/></a>
 <a href='#' target="_blank"><img alt='IntelliJ IDEA' src='https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black&color=white'/></a>
-<a href='#' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white'/></a>
 
 
 ---
